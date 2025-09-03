@@ -38,6 +38,31 @@ Copy code
 
 ---
 
+## 🛠️ Setup Instructions(Not for Java Developer)
+
+### 1️⃣ Setup Virtual Environment (Recommended)
+Create a `.venv` folder so dependencies don’t conflict with your global Python setup:
+
+```bash
+# Create venv
+python -m venv .venv
+
+# Activate venv
+# On Windows:
+.venv\Scripts\activate
+# On Linux/Mac:
+source .venv/bin/activate
+
+# After activation, install required packages
+pip install -r requirements.txt
+👉 You can deactivate anytime with:
+
+bash
+Copy code
+deactivate
+
+---
+
 ## 📊 Dataset
 - File: `GwaterExt2017-2020.csv`
 - Content: Groundwater extraction records for India (2017–2020).

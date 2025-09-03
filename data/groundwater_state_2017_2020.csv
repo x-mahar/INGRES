@@ -1,0 +1,75 @@
+state,year,resource_bcm,extraction_bcm,stage_percent
+Andhra Pradesh,2017,20.15,8.9,44.15
+Andhra Pradesh,2020,22.94,7.63,33.26
+Arunachal Pradesh,2017,2.67,0.01,0.28
+Arunachal Pradesh,2020,2.92,0.01,0.36
+Assam,2017,24.26,2.73,11.25
+Assam,2020,21.97,2.58,11.73
+Bihar,2017,28.99,13.26,45.76
+Bihar,2020,25.46,13.02,51.14
+Chhattisgarh,2017,10.57,4.7,44.43
+Chhattisgarh,2020,11.55,5.35,46.34
+Delhi,2017,0.3,0.36,119.61
+Delhi,2020,0.29,0.29,101.4
+Goa,2017,0.16,0.05,33.5
+Goa,2020,0.32,0.08,23.48
+Gujarat,2017,21.25,13.58,63.89
+Gujarat,2020,24.91,13.3,53.39
+Haryana,2017,9.13,12.5,136.91
+Haryana,2020,8.63,11.61,134.56
+Himachal Pradesh,2017,0.46,0.39,86.37
+Himachal Pradesh,2020,0.97,0.36,36.83
+Jharkhand,2017,5.69,1.58,27.73
+Jharkhand,2020,5.64,1.64,29.13
+Karnataka,2017,14.79,10.34,69.87
+Karnataka,2020,16.4,10.63,64.85
+Kerala,2017,5.21,2.67,51.27
+Kerala,2020,5.12,2.65,51.68
+Madhya Pradesh,2017,34.47,18.88,54.76
+Madhya Pradesh,2020,33.38,18.97,56.82
+Maharashtra,2017,29.9,16.33,54.62
+Maharashtra,2020,30.25,16.63,54.99
+Manipur,2017,0.39,0.01,1.44
+Manipur,2020,0.46,0.02,5.12
+Meghalaya,2017,1.64,0.04,2.28
+Meghalaya,2020,1.82,0.08,4.22
+Mizoram,2017,0.19,0.01,3.82
+Mizoram,2020,0.2,0.01,3.81
+Nagaland,2017,1.98,0.02,0.99
+Nagaland,2020,1.95,0.02,1.04
+Odisha,2017,15.57,6.57,42.18
+Odisha,2020,15.71,6.86,43.65
+Punjab,2017,21.58,35.78,165.77
+Punjab,2020,20.59,33.85,164.42
+Rajasthan,2017,11.99,16.77,139.88
+Rajasthan,2020,11.07,16.63,150.22
+Sikkim,2017,1.52,0,0.06
+Sikkim,2020,0.86,0.01,0.86
+Tamil Nadu,2017,18.2,14.73,80.94
+Tamil Nadu,2020,17.69,14.67,82.93
+Telangana,2017,12.37,8.09,65.45
+Telangana,2020,15.03,8.01,53.32
+Tripura,2017,1.24,0.1,7.88
+Tripura,2020,1.24,0.1,7.94
+Uttar Pradesh,2017,65.32,45.84,70.18
+Uttar Pradesh,2020,66.88,46.03,68.83
+Uttarakhand,2017,2.89,1.64,56.83
+Uttarakhand,2020,1.85,0.87,46.8
+West Bengal,2017,26.56,11.84,44.6
+West Bengal,2020,26.56,11.84,44.6
+Andaman and Nicobar,2017,0.33,0.01,2.74
+Andaman and Nicobar,2020,0.28,0.01,2.6
+Chandigarh,2017,0.04,0.03,89
+Chandigarh,2020,0.06,0.05,80.6
+Dadra and Nagar Haveli,2017,0.07,0.02,31.34
+Dadra and Nagar Haveli,2020,0.07,0.03,45.99
+Daman and Diu,2017,0.02,0.01,61.4
+Daman and Diu,2020,0.03,0.03,113.38
+Jammu and Kashmir,2017,2.6,0.76,29.47
+Jammu and Kashmir,2020,4.22,0.89,21.03
+Ladakh,2017,,,
+Ladakh,2020,0.11,0.02,17.9
+Lakshadweep,2017,0,0,65.99
+Lakshadweep,2020,0,0,58.47
+Puducherry,2017,0.2,0.15,74.33
+Puducherry,2020,0.2,0.15,74.27

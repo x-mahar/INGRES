@@ -1,0 +1,74 @@
+{"state":"Andhra Pradesh","year":2017,"resource_bcm":20.15,"extraction_bcm":8.9,"stage_percent":44.15}
+{"state":"Andhra Pradesh","year":2020,"resource_bcm":22.94,"extraction_bcm":7.63,"stage_percent":33.26}
+{"state":"Arunachal Pradesh","year":2017,"resource_bcm":2.67,"extraction_bcm":0.01,"stage_percent":0.28}
+{"state":"Arunachal Pradesh","year":2020,"resource_bcm":2.92,"extraction_bcm":0.01,"stage_percent":0.36}
+{"state":"Assam","year":2017,"resource_bcm":24.26,"extraction_bcm":2.73,"stage_percent":11.25}
+{"state":"Assam","year":2020,"resource_bcm":21.97,"extraction_bcm":2.58,"stage_percent":11.73}
+{"state":"Bihar","year":2017,"resource_bcm":28.99,"extraction_bcm":13.26,"stage_percent":45.76}
+{"state":"Bihar","year":2020,"resource_bcm":25.46,"extraction_bcm":13.02,"stage_percent":51.14}
+{"state":"Chhattisgarh","year":2017,"resource_bcm":10.57,"extraction_bcm":4.7,"stage_percent":44.43}
+{"state":"Chhattisgarh","year":2020,"resource_bcm":11.55,"extraction_bcm":5.35,"stage_percent":46.34}
+{"state":"Delhi","year":2017,"resource_bcm":0.3,"extraction_bcm":0.36,"stage_percent":119.61}
+{"state":"Delhi","year":2020,"resource_bcm":0.29,"extraction_bcm":0.29,"stage_percent":101.4}
+{"state":"Goa","year":2017,"resource_bcm":0.16,"extraction_bcm":0.05,"stage_percent":33.5}
+{"state":"Goa","year":2020,"resource_bcm":0.32,"extraction_bcm":0.08,"stage_percent":23.48}
+{"state":"Gujarat","year":2017,"resource_bcm":21.25,"extraction_bcm":13.58,"stage_percent":63.89}
+{"state":"Gujarat","year":2020,"resource_bcm":24.91,"extraction_bcm":13.3,"stage_percent":53.39}
+{"state":"Haryana","year":2017,"resource_bcm":9.13,"extraction_bcm":12.5,"stage_percent":136.91}
+{"state":"Haryana","year":2020,"resource_bcm":8.63,"extraction_bcm":11.61,"stage_percent":134.56}
+{"state":"Himachal Pradesh","year":2017,"resource_bcm":0.46,"extraction_bcm":0.39,"stage_percent":86.37}
+{"state":"Himachal Pradesh","year":2020,"resource_bcm":0.97,"extraction_bcm":0.36,"stage_percent":36.83}
+{"state":"Jharkhand","year":2017,"resource_bcm":5.69,"extraction_bcm":1.58,"stage_percent":27.73}
+{"state":"Jharkhand","year":2020,"resource_bcm":5.64,"extraction_bcm":1.64,"stage_percent":29.13}
+{"state":"Karnataka","year":2017,"resource_bcm":14.79,"extraction_bcm":10.34,"stage_percent":69.87}
+{"state":"Karnataka","year":2020,"resource_bcm":16.4,"extraction_bcm":10.63,"stage_percent":64.85}
+{"state":"Kerala","year":2017,"resource_bcm":5.21,"extraction_bcm":2.67,"stage_percent":51.27}
+{"state":"Kerala","year":2020,"resource_bcm":5.12,"extraction_bcm":2.65,"stage_percent":51.68}
+{"state":"Madhya Pradesh","year":2017,"resource_bcm":34.47,"extraction_bcm":18.88,"stage_percent":54.76}
+{"state":"Madhya Pradesh","year":2020,"resource_bcm":33.38,"extraction_bcm":18.97,"stage_percent":56.82}
+{"state":"Maharashtra","year":2017,"resource_bcm":29.9,"extraction_bcm":16.33,"stage_percent":54.62}
+{"state":"Maharashtra","year":2020,"resource_bcm":30.25,"extraction_bcm":16.63,"stage_percent":54.99}
+{"state":"Manipur","year":2017,"resource_bcm":0.39,"extraction_bcm":0.01,"stage_percent":1.44}
+{"state":"Manipur","year":2020,"resource_bcm":0.46,"extraction_bcm":0.02,"stage_percent":5.12}
+{"state":"Meghalaya","year":2017,"resource_bcm":1.64,"extraction_bcm":0.04,"stage_percent":2.28}
+{"state":"Meghalaya","year":2020,"resource_bcm":1.82,"extraction_bcm":0.08,"stage_percent":4.22}
+{"state":"Mizoram","year":2017,"resource_bcm":0.19,"extraction_bcm":0.01,"stage_percent":3.82}
+{"state":"Mizoram","year":2020,"resource_bcm":0.2,"extraction_bcm":0.01,"stage_percent":3.81}
+{"state":"Nagaland","year":2017,"resource_bcm":1.98,"extraction_bcm":0.02,"stage_percent":0.99}
+{"state":"Nagaland","year":2020,"resource_bcm":1.95,"extraction_bcm":0.02,"stage_percent":1.04}
+{"state":"Odisha","year":2017,"resource_bcm":15.57,"extraction_bcm":6.57,"stage_percent":42.18}
+{"state":"Odisha","year":2020,"resource_bcm":15.71,"extraction_bcm":6.86,"stage_percent":43.65}
+{"state":"Punjab","year":2017,"resource_bcm":21.58,"extraction_bcm":35.78,"stage_percent":165.77}
+{"state":"Punjab","year":2020,"resource_bcm":20.59,"extraction_bcm":33.85,"stage_percent":164.42}
+{"state":"Rajasthan","year":2017,"resource_bcm":11.99,"extraction_bcm":16.77,"stage_percent":139.88}
+{"state":"Rajasthan","year":2020,"resource_bcm":11.07,"extraction_bcm":16.63,"stage_percent":150.22}
+{"state":"Sikkim","year":2017,"resource_bcm":1.52,"extraction_bcm":0.0,"stage_percent":0.06}
+{"state":"Sikkim","year":2020,"resource_bcm":0.86,"extraction_bcm":0.01,"stage_percent":0.86}
+{"state":"Tamil Nadu","year":2017,"resource_bcm":18.2,"extraction_bcm":14.73,"stage_percent":80.94}
+{"state":"Tamil Nadu","year":2020,"resource_bcm":17.69,"extraction_bcm":14.67,"stage_percent":82.93}
+{"state":"Telangana","year":2017,"resource_bcm":12.37,"extraction_bcm":8.09,"stage_percent":65.45}
+{"state":"Telangana","year":2020,"resource_bcm":15.03,"extraction_bcm":8.01,"stage_percent":53.32}
+{"state":"Tripura","year":2017,"resource_bcm":1.24,"extraction_bcm":0.1,"stage_percent":7.88}
+{"state":"Tripura","year":2020,"resource_bcm":1.24,"extraction_bcm":0.1,"stage_percent":7.94}
+{"state":"Uttar Pradesh","year":2017,"resource_bcm":65.32,"extraction_bcm":45.84,"stage_percent":70.18}
+{"state":"Uttar Pradesh","year":2020,"resource_bcm":66.88,"extraction_bcm":46.03,"stage_percent":68.83}
+{"state":"Uttarakhand","year":2017,"resource_bcm":2.89,"extraction_bcm":1.64,"stage_percent":56.83}
+{"state":"Uttarakhand","year":2020,"resource_bcm":1.85,"extraction_bcm":0.87,"stage_percent":46.8}
+{"state":"West Bengal","year":2017,"resource_bcm":26.56,"extraction_bcm":11.84,"stage_percent":44.6}
+{"state":"West Bengal","year":2020,"resource_bcm":26.56,"extraction_bcm":11.84,"stage_percent":44.6}
+{"state":"Andaman and Nicobar","year":2017,"resource_bcm":0.33,"extraction_bcm":0.01,"stage_percent":2.74}
+{"state":"Andaman and Nicobar","year":2020,"resource_bcm":0.28,"extraction_bcm":0.01,"stage_percent":2.6}
+{"state":"Chandigarh","year":2017,"resource_bcm":0.04,"extraction_bcm":0.03,"stage_percent":89.0}
+{"state":"Chandigarh","year":2020,"resource_bcm":0.06,"extraction_bcm":0.05,"stage_percent":80.6}
+{"state":"Dadra and Nagar Haveli","year":2017,"resource_bcm":0.07,"extraction_bcm":0.02,"stage_percent":31.34}
+{"state":"Dadra and Nagar Haveli","year":2020,"resource_bcm":0.07,"extraction_bcm":0.03,"stage_percent":45.99}
+{"state":"Daman and Diu","year":2017,"resource_bcm":0.02,"extraction_bcm":0.01,"stage_percent":61.4}
+{"state":"Daman and Diu","year":2020,"resource_bcm":0.03,"extraction_bcm":0.03,"stage_percent":113.38}
+{"state":"Jammu and Kashmir","year":2017,"resource_bcm":2.6,"extraction_bcm":0.76,"stage_percent":29.47}
+{"state":"Jammu and Kashmir","year":2020,"resource_bcm":4.22,"extraction_bcm":0.89,"stage_percent":21.03}
+{"state":"Ladakh","year":2017,"resource_bcm":null,"extraction_bcm":null,"stage_percent":null}
+{"state":"Ladakh","year":2020,"resource_bcm":0.11,"extraction_bcm":0.02,"stage_percent":17.9}
+{"state":"Lakshadweep","year":2017,"resource_bcm":0.0,"extraction_bcm":0.0,"stage_percent":65.99}
+{"state":"Lakshadweep","year":2020,"resource_bcm":0.0,"extraction_bcm":0.0,"stage_percent":58.47}
+{"state":"Puducherry","year":2017,"resource_bcm":0.2,"extraction_bcm":0.15,"stage_percent":74.33}
+{"state":"Puducherry","year":2020,"resource_bcm":0.2,"extraction_bcm":0.15,"stage_percent":74.27}
